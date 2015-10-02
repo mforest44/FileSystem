@@ -1,0 +1,7 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestCreate\bin\Debug\TestCreate.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestCreate\bin\Debug\TestCreate.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestCreate\bin\Debug\TPFileSystem.exe
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestCreate\bin\Debug\TPFileSystem.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestCreate\obj\Debug\TestUnitaires.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestCreate\obj\Debug\TestCreate.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestCreate\obj\Debug\TestCreate.pdb

@@ -1,0 +1,4 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetPath\bin\Debug\TestGetPath.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetPath\bin\Debug\TestGetPath.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetPath\obj\Debug\TestGetPath.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetPath\obj\Debug\TestGetPath.pdb

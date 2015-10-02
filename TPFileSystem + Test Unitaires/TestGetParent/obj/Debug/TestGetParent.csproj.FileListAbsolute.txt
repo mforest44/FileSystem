@@ -1,0 +1,4 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetParent\bin\Debug\TestGetParent.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetParent\bin\Debug\TestGetParent.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetParent\obj\Debug\TestGetParent.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestGetParent\obj\Debug\TestGetParent.pdb

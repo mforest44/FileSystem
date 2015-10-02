@@ -1,0 +1,5 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestSearch\bin\Debug\TestSearch.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestSearch\bin\Debug\TestSearch.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestSearch\obj\Debug\TestSearch.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestSearch\obj\Debug\TestSearch.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestSearch\obj\Debug\TestSearch.pdb

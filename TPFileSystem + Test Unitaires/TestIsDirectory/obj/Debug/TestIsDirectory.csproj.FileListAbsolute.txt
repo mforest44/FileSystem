@@ -1,0 +1,4 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsDirectory\bin\Debug\TestIsDirectory.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsDirectory\bin\Debug\TestIsDirectory.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsDirectory\obj\Debug\TestIsDirectory.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsDirectory\obj\Debug\TestIsDirectory.pdb

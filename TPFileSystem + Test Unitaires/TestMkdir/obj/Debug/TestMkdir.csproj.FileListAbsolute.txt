@@ -1,0 +1,7 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestMkdir\bin\Debug\TestMkdir.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestMkdir\bin\Debug\TestMkdir.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestMkdir\bin\Debug\TPFileSystem.exe
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestMkdir\bin\Debug\TPFileSystem.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestMkdir\obj\Debug\TestMkdir.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestMkdir\obj\Debug\TestMkdir.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestMkdir\obj\Debug\TestMkdir.pdb

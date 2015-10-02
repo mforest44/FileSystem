@@ -1,0 +1,6 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe.config
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.exe
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TPFileSystem\bin\Debug\TPFileSystem.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.exe
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TPFileSystem\obj\Debug\TPFileSystem.pdb

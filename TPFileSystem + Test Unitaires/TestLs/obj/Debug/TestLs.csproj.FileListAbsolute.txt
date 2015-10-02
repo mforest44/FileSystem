@@ -1,0 +1,7 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestLs\bin\Debug\TestLs.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestLs\bin\Debug\TestLs.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestLs\bin\Debug\TPFileSystem.exe
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestLs\bin\Debug\TPFileSystem.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestLs\obj\Debug\TestLs.csprojResolveAssemblyReference.cache
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestLs\obj\Debug\TestLs.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestLs\obj\Debug\TestLs.pdb

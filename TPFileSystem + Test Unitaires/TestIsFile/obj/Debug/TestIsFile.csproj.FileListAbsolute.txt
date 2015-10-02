@@ -1,0 +1,4 @@
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsFile\bin\Debug\TestIsFile.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsFile\bin\Debug\TestIsFile.pdb
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsFile\obj\Debug\TestIsFile.dll
+C:\Users\Maxime\Documents\Epsi\Cours\Algo\Projet\TPFileSystem\TestIsFile\obj\Debug\TestIsFile.pdb
